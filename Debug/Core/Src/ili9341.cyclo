@@ -1,0 +1,14 @@
+../Core/Src/ili9341.c:12:13:ILI9341_Select	1
+../Core/Src/ili9341.c:16:6:ILI9341_Unselect	1
+../Core/Src/ili9341.c:20:13:ILI9341_Reset	1
+../Core/Src/ili9341.c:26:13:ILI9341_WriteCommand	1
+../Core/Src/ili9341.c:32:13:ILI9341_WriteData	2
+../Core/Src/ili9341.c:45:13:ILI9341_SetAddressWindow	1
+../Core/Src/ili9341.c:64:6:ILI9341_Init	1
+../Core/Src/ili9341.c:219:6:ILI9341_DrawPixel	3
+../Core/Src/ili9341.c:232:13:ILI9341_WriteChar	4
+../Core/Src/ili9341.c:251:6:ILI9341_WriteString	5
+../Core/Src/ili9341.c:277:6:ILI9341_FillRectangle	7
+../Core/Src/ili9341.c:298:6:ILI9341_FillScreen	1
+../Core/Src/ili9341.c:302:6:ILI9341_DrawImage	5
+../Core/Src/ili9341.c:313:6:ILI9341_InvertColors	2
